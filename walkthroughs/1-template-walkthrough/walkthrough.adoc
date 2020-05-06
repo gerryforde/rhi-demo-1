@@ -1,4 +1,4 @@
-= Test RHI Solution Pattern
+= Camel K Basic Solution Pattern
 
 // This is a template meant to be used as a starting point for walkthrough development
 
@@ -9,6 +9,18 @@
 * link:https://help.openshift.com/[Openshift Online Help Center, window="_blank"]
 * link:https://blog.openshift.com/[Openshift Blog, window="_blank"]
 ****
+
+[time=5]
+== Get the Camel K instance credentials
+
+[time=5]
+== Open an IDE such as a local VS Code or online Code Ready Workspaces instance 
+
+[time=5]
+== Open OpenShift console to find the integration pod
+
+[time=5]
+== Open the pod log to view messages coming from their deployed 
 
 [time=5]
 == Task Title
