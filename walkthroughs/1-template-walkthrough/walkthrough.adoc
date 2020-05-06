@@ -1,6 +1,12 @@
-= Camel K Basic
+:walkthrough: Camel K Basic
+:fuse-version: 7.6
+:fuse-documentation-url: https://access.redhat.com/documentation/en-us/red_hat_fuse/{fuse-version}/
+//:amq-documentation-url: https://access.redhat.com/documentation/en-us/red_hat_amq/7.6/
 
-// This is a template meant to be used as a starting point for walkthrough development
+[id='integrating-eventdriven-and-apidriven-applications']
+= {walkthrough}
+
+This Solution Pattern demonstrates bean creation, processor start up, and a Hello World integration project based on an integration pattern (EIP).
 
 [type=walkthroughResource,serviceName=openshift]
 .Red Hat OpenShift
@@ -9,7 +15,6 @@
 * link:https://help.openshift.com/[Openshift Online Help Center, window="_blank"]
 * link:https://blog.openshift.com/[Openshift Blog, window="_blank"]
 ****
-This Solution Pattern demonstrates bean creation, processor start up, and setting up an easy Hello World integration project based on an integration pattern (EIP).
 
 [time=5]
 == Get the Camel K instance credentials
