@@ -1,4 +1,4 @@
-= Camel K Basic Solution Pattern
+= Camel K Basic
 
 // This is a template meant to be used as a starting point for walkthrough development
 
@@ -9,6 +9,7 @@
 * link:https://help.openshift.com/[Openshift Online Help Center, window="_blank"]
 * link:https://blog.openshift.com/[Openshift Blog, window="_blank"]
 ****
+This Solution Pattern demonstrates covers bean creation, processor start up, and setting up an easy Hello World integration project based on an integration pattern (EIP).
 
 [time=5]
 == Get the Camel K instance credentials
